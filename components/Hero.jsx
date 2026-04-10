@@ -25,7 +25,7 @@ export default function Hero() {
           </div>
           <div className="mx-auto max-w-4xl pb-12">
             <img
-              src="https://placehold.co/800x450" // Placeholder for a dashboard screenshot
+              src="https://placehold.co/600x400/EEE/31343C?font=poppins&text=Poppins" // Placeholder for a dashboard screenshot
               alt="App screenshot"
               className="rounded-xl shadow-2xl ring-1 ring-gray-900/10"
             />
